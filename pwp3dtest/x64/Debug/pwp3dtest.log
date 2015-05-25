@@ -1,0 +1,6 @@
+﻿  main.cpp
+  pwp3dtest.vcxproj -> F:\mycode\pwp3dtest\x64\Debug\pwp3dtest.exe
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\cudart*.dll" "F:\mycode\pwp3dtest\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\cudart32_65.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\cudart64_65.dll
+          2 file(s) copied.
