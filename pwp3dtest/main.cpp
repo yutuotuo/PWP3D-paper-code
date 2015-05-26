@@ -86,7 +86,7 @@ int main(void)
 	//  objects[objectIdx]->initialPose[viewIdx]->SetFrom(-1.98f, -2.90f, 37.47f, -40.90f, -207.77f, 27.48f);
 
 	// for blue car demo
-	  objects[objectIdx]->initialPose[viewIdx]->SetFrom( -3.0f,-4.5f,28.f, -220.90f, -207.77f, 87.48f);
+	objects[objectIdx]->initialPose[viewIdx]->SetFrom( -3.0f,-4.5f,28.f, -220.90f, -207.77f, 87.48f);
 
 	// for red can demo
 	//objects[objectIdx]->initialPose[viewIdx]->SetFrom(1.0f, 3.0f, 30.f, 180.f, 80.f, 60.f);
